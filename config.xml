@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="fr.cdn.smartphone" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>SmartPhone</name>
+    <name>Credit du Nord</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Application d'exemple pour le Credit du Nord
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="duboscph@cordova.apache.org" href="http://cordova.io">
+        Philippe Dubosc
     </author>
-    <content src="http://www.credit-du-nord.fr" />
+    <content src="https://www.credit-du-nord.fr" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
