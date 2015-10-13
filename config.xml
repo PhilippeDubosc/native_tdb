@@ -7,7 +7,7 @@
     <author email="duboscph@cordova.apache.org" href="http://cordova.io">
         Philippe Dubosc
     </author>
-    <content src="https://www.credit-du-nord.fr" />
+    <content src="http://www.google.fr" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
