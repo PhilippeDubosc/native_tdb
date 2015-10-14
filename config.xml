@@ -7,7 +7,7 @@
     <author email="duboscph@cordova.apache.org" href="http://cordova.io">
         Philippe Dubosc
     </author>
-    <content src="http://www.google.fr" />
+    <content src="http://m-ass.credit-du-nord.fr/backdoor.html" />
     <plugin name="cordova-plugin-whitelist" version="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
